@@ -73,3 +73,13 @@
     - 1 x RGB LED
 
     - 2 x push buttons
+
+## Documentation
+
+- User guide: S32K144 EVB Quick Start Guide
+
+## Design Resources
+
+### Design Files
+
+- S32K144EVB Evaluation Board Schematics
